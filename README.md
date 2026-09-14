@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Md. Ezaz Mahmud 👋
 
-<!--
-**ezazmahmud66/ezazmahmud66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Year Student @ East West University
 
-Here are some ideas to get you started:
+📊 Data Analytics Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- SQL
+- Python
+- Excel
+- Power BI
+
+### 📚 Currently Learning
+
+- Data Analytics
+- Data Visualization
+- Python for Data Analysis
+- SQL
+
+### 🎯 Career Goal
+
+I'm building my skills in data analytics and working on
+real-world projects to become a Data Analyst.
