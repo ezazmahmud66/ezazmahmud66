@@ -1,10 +1,10 @@
 # Hi, I'm Md. Ezaz Mahmud 👋
 
-🎓 4th Year Student @ East West University
+🎓 4th Year Student @ East West University, Bangladesh
 
 📊 Data Analytics Enthusiast
 
-### Skills
+### 🛠️ Skills
 
 <table>
   <tr>
