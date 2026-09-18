@@ -4,14 +4,28 @@
 
 📊 Data Analytics Enthusiast
 
-### 🛠️ Skills
+### Skills
 
 <table>
   <tr>
-    <td align="center"><b>🐍 Python</b></td>
-    <td align="center"><b>🗄️ SQL</b></td>
-    <td align="center"><b>📊 Power BI</b></td>
-    <td align="center"><b>📗 Excel</b></td>
+    <td><b>Programming</b></td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><b>Database & Development</b></td>
+    <td>SQL, SQL Server, Oracle PL/SQL, Oracle APEX</td>
+  </tr>
+  <tr>
+    <td><b>Data Analysis & Visualization</b></td>
+    <td>Pandas, NumPy, Matplotlib, Seaborn, Statistics, Data Cleaning</td>
+  </tr>
+  <tr>
+    <td><b>BI & Reporting</b></td>
+    <td>Power BI, Excel</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git, GitHub</td>
   </tr>
 </table>
 
@@ -21,8 +35,7 @@
 - Ruby(Core concepts, OOP, Data structures)
 - Ruby on Rails (Web development, MVC architecture)
 - Data Analytics
-- Data Visualization
-- Power BI
+- 
 
 ### 🎯 Career Goal
 
