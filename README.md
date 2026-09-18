@@ -6,17 +6,23 @@
 
 ### 🛠️ Skills
 
-- SQL
-- Python
-- Excel
-- Power BI
+<table>
+  <tr>
+    <td>🐍 Python</td>
+    <td>🗄️ SQL</td>
+    <td>📊 Power BI</td>
+    <td>📗 Excel</td>
+  </tr>
+</table>
+
 
 ### 📚 Currently Learning
 
+- Ruby(Core concepts, OOP, Data structures)
+- Ruby on Rails (Web development, MVC architecture)
 - Data Analytics
 - Data Visualization
-- Python for Data Analysis
-- SQL
+- Power BI
 
 ### 🎯 Career Goal
 
