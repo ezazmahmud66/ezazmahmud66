@@ -8,10 +8,10 @@
 
 <table>
   <tr>
-    <td>🐍 Python</td>
-    <td>🗄️ SQL</td>
-    <td>📊 Power BI</td>
-    <td>📗 Excel</td>
+    <td align="center"><b>🐍 Python</b></td>
+    <td align="center"><b>🗄️ SQL</b></td>
+    <td align="center"><b>📊 Power BI</b></td>
+    <td align="center"><b>📗 Excel</b></td>
   </tr>
 </table>
 
