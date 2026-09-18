@@ -9,15 +9,15 @@
 <table>
   <tr>
     <td><b>Programming</b></td>
-    <td>Python</td>
+    <td>Python, Java, Object-Oriented Programming (OOP)</td>
   </tr>
   <tr>
     <td><b>Database & Development</b></td>
-    <td>SQL, SQL Server, Oracle PL/SQL, Oracle APEX</td>
+    <td>SQL, SQL Server, Oracle APEX, Oracle PL/SQL</td>
   </tr>
   <tr>
     <td><b>Data Analysis & Visualization</b></td>
-    <td>Pandas, NumPy, Matplotlib, Seaborn, Statistics, Data Cleaning</td>
+    <td>Pandas, NumPy, Matplotlib, Seaborn, Statistics, Data Cleaning, Data Visualization</td>
   </tr>
   <tr>
     <td><b>BI & Reporting</b></td>
@@ -32,12 +32,12 @@
 
 ### 📚 Currently Learning
 
-- Ruby(Core concepts, OOP, Data structures)
-- Ruby on Rails (Web development, MVC architecture)
-- Data Analytics
-- 
+- Ruby (Core Concepts, OOP, Data Structures)
+- Ruby on Rails (Web Development, MVC Architecture)
+- Machine Learning (Fundamentals, Data Preprocessing, Model Building)
+- Project Management (Planning, Agile, Project Lifecycle)
 
 ### 🎯 Career Goal
 
-I'm building my skills in data analytics and working on
-real-world projects to become a Data Analyst.
+My goal is to build a career in data analytics by developing
+strong analytical skills and working on real-world projects.
