@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td><b>Data Analysis & Visualization</b></td>
-    <td>Pandas, NumPy, Matplotlib, Seaborn, Statistics, Data Cleaning, Data Visualization</td>
+    <td>Pandas, NumPy, Matplotlib, Seaborn, Statistics, EDA, Data Cleaning, Data Visualization</td>
   </tr>
   <tr>
     <td><b>BI & Reporting</b></td>
