@@ -21,11 +21,11 @@
   </tr>
   <tr>
     <td><b>BI & Reporting</b></td>
-    <td>Power BI, Excel</td>
+    <td>Power BI, Advance Excel</td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td>Git, GitHub</td>
+    <td>Git, GitHub, VS Code</td>
   </tr>
 </table>
 
